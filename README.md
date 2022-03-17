@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminaatik
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning different program languages
+- 🌱 I’m currently learning different programming languages
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: aminaatik2000@gmail.com
 
